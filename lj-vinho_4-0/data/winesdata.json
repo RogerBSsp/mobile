@@ -1,0 +1,61 @@
+[
+  {
+    "id": "1009220",
+    "name": "Vinho tinto seco bordô",
+    "subTitulo": "Vinho Tinto Suave de Mesa",
+    "marca": "San Martin",
+    "preco": "17,99",
+    "tipo": "Red wine (Green and Firm)",
+    "pais": "Brasil",
+    "status": "Disponivel",
+    "score": 94,
+    "added": false,
+    "thumbnail": {
+      "path": "https://m.media-amazon.com/images/I/41AKNFBwdtL._AC_SL1000_.jpg"
+    }
+  },
+  {
+    "id": "1010914",
+    "name": "Vinho Rosé Suave",
+    "subTitulo": "Vinho Rosé Suave de Mesa",
+    "marca": "San Martin",
+    "preco": "14,14",
+    "tipo": "Rose wine (Green and Firm)",
+    "pais": "Brasil",
+    "status": "Disponivel",
+    "score": 94,
+    "added": true,
+    "thumbnail": {
+      "path": "https://m.media-amazon.com/images/I/41AKNFBwdtL._AC_SL1000_.jpg"
+    }
+  },
+  {
+    "id": "1017295",
+    "name": "Vinho Branco Fino Seco",
+    "marca": "Monte de Sabóia",
+    "preco": "42,72",
+    "tipo": "White wine (Green and Firm)",
+    "pais": "Portugal",
+    "status": "Disponivel",
+    "score": 94,
+    "added": false,
+    "thumbnail": {
+      "path": "https://m.media-amazon.com/images/I/41AKNFBwdtL._AC_SL1000_.jpg"
+    }
+  },
+  {
+    "id": "1017575",
+    "name": "Vinho Tinto Carmenere",
+    "marca": "Casas Patronales",
+    "preco": "89,90",
+    "tipo": "Red wine (Green and Firm)",
+    "pais": "Chile",
+    "status": "Indisponivel",
+    "score": 94,
+    "added": true,
+    "thumbnail": {
+      "path": "https://m.media-amazon.com/images/I/41AKNFBwdtL._AC_SL1000_.jpg"
+    }
+  }
+]
+

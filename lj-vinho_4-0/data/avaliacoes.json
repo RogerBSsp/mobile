@@ -1,0 +1,36 @@
+[
+  {
+    "id": "1",
+    "vinho": "Vinho tinto seco bordô",
+    "marca": "San Martin",
+    "nota": 4.5,
+    "comentario": "Excelente vinho para o dia a dia, ótimo custo-benefício!",
+    "data": "15/05/2025",
+    "usuario": "Maria Silva",
+    "usuarioImagem": "https://randomuser.me/api/portraits/women/44.jpg",
+    "vinhoImagem": "https://m.media-amazon.com/images/I/41AKNFBwdtL._AC_SL1000_.jpg"
+  },
+  {
+    "id": "2",
+    "vinho": "Vinho tinto seco bordô",
+    "marca": "San Martin",
+    "nota": 4.5,
+    "comentario": "Excelente vinho para o dia a dia, ótimo custo-benefício!",
+    "data": "15/05/2025",
+    "usuario": "Maria Silva",
+    "usuarioImagem": "https://randomuser.me/api/portraits/women/44.jpg",
+    "vinhoImagem": "https://m.media-amazon.com/images/I/41AKNFBwdtL._AC_SL1000_.jpg"
+  },
+  {
+    "id": "1",
+    "vinho": "Vinho tinto seco bordô",
+    "marca": "San Martin",
+    "nota": 4.5,
+    "comentario": "Excelente vinho para o dia a dia, ótimo custo-benefício!",
+    "data": "15/05/2025",
+    "usuario": "Maria Silva",
+    "usuarioImagem": "https://randomuser.me/api/portraits/women/44.jpg",
+    "vinhoImagem": "https://m.media-amazon.com/images/I/41AKNFBwdtL._AC_SL1000_.jpg"
+  }
+]
+  
